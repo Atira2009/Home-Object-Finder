@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+}
+.heading{
+    width:100%;
+    text-align: center;
+}
+.heading h3{
+    display: inline;
+}
+.heading a{
+    float: right;
+    border: 1px dashed white;
+    color:antiquewhite;
+}
+canvas{
+        box-shadow: 5px 5px 5px grey;
+        border: 2px solid white;
+        border-radius: 10px;
+        margin-top: 130px;
+}

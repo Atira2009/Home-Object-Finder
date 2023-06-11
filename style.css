@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.list{
+    color:black;
+    background-color: white;
+    font-size: 22px;
+}
+.heading{
+    width:100%;
+    text-align: center;
+}
+.heading h3{
+    display: inline;
+}
